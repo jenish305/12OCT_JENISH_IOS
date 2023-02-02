@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E6F5BBC-9FFD-4EB5-9A55-D048ED4FBE3F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA6C93E8-CE09-4749-896E-C0DF0FCB9A33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "(13)plist_data/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA6C93E8-CE09-4749-896E-C0DF0FCB9A33 - 501695c3e9a1f95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_13_plist_data.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "(13)plist_data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onlymac/Desktop/MODUL%205/(13)plist_data/(13)plist_data/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "CA6C93E8-CE09-4749-896E-C0DF0FCB9A33 - 501695c3e9a1f95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_13_plist_data.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "(13)plist_data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onlymac/Desktop/MODUL%205/(13)plist_data/(13)plist_data/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "422">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "872E2577-D158-4B07-81B5-080B5472F3BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "(13)plist_data/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "872E2577-D158-4B07-81B5-080B5472F3BC - 501695c3e9a1f95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_13_plist_data.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "(13)plist_data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onlymac/Desktop/MODUL%205/(13)plist_data/(13)plist_data/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "872E2577-D158-4B07-81B5-080B5472F3BC - 501695c3e9a1f95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_13_plist_data.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "(13)plist_data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onlymac/Desktop/MODUL%205/(13)plist_data/(13)plist_data/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "422">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
